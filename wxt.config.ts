@@ -8,8 +8,8 @@ export default defineConfig({
         "@wxt-dev/module-react"
     ],
     manifest: {
-        permissions: ["storage", "activeTab"],
-        host_permissions: ["https://*/*", "http://*/*"],
+        permissions: ["storage"],
+        host_permissions: ["https://www.pixiv.net/*"],
     },
     // @ts-ignore
     background: {
