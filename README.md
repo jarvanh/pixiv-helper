@@ -4,6 +4,19 @@
 
 A Chrome extension built with WXT and shadcn/ui that helps you download and sync Pixiv illustrations to your cloud storage through Alist. Download your favorite artworks in different quality options and manage them effortlessly.
 
+## 📸 Preview
+
+<img src="screenshots/Snipaste_1.jpg" width="500px" />
+<img src="screenshots/Snipaste_2.jpg" width="500px" />
+<img src="screenshots/Snipaste_3.jpg" width="500px" />
+
+
+![Extension Popup](docs/images/popup.png)
+_Extension popup interface_
+
+![Settings Panel](docs/images/settings.png)
+_Settings configuration panel_
+
 ## ✨ Features
 
 - 🖼️ Download Pixiv illustrations with one click

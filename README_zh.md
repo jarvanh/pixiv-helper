@@ -4,6 +4,12 @@
 
 一个基于 WXT 和 shadcn/ui 构建的 Chrome 扩展，帮助您通过 Alist 下载并同步 Pixiv 插画到云存储。支持不同画质选项的下载，让您轻松管理喜爱的作品。
 
+## 📸 预览
+
+<img src="screenshots/Snipaste_1.jpg" width="500px" />
+<img src="screenshots/Snipaste_2.jpg" width="500px" />
+<img src="screenshots/Snipaste_3.jpg" width="500px" />
+
 ## ✨ 主要特性
 
 - 🖼️ 一键下载 Pixiv 插画
