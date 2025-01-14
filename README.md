@@ -33,7 +33,7 @@ A Chrome extension built with WXT and shadcn/ui that helps you download and sync
 
 ## 🚀 Getting Started
 
-1. Clone the repository: `git clone https://github.com/hellokaton/pixvi-helper.git`
+1. Clone the repository: `git clone https://github.com/hellokaton/pixiv-helper.git`
 2. Install dependencies:
 
 ```bash
