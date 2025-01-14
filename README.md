@@ -73,7 +73,7 @@ You have two ways to install this extension:
    - Click "Add to Chrome" to install
 
 2. **Manual Installation**
-   - Download the latest release from [GitHub Releases](https://github.com/hellokaton/pixvi-helper/releases)
+   - Download the latest release from [GitHub Releases](https://github.com/hellokaton/pixiv-helper/releases)
    - Unzip the downloaded file
    - Open Chrome and go to `chrome://extensions/`
    - Enable "Developer mode" in the top right

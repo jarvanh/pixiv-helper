@@ -72,7 +72,7 @@ pnpm dev
    - 点击"添加至 Chrome"即可安装
 
 2. **手动安装**
-   - 从 [GitHub Releases](https://github.com/hellokaton/pixvi-helper/releases) 下载最新版本
+   - 从 [GitHub Releases](https://github.com/hellokaton/pixiv-helper/releases) 下载最新版本
    - 解压下载的文件
    - 打开 Chrome，访问 `chrome://extensions/`
    - 开启右上角的"开发者模式"
