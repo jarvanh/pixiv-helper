@@ -11,12 +11,6 @@ A Chrome extension built with WXT and shadcn/ui that helps you download and sync
 <img src="screenshots/Snipaste_3.jpg" width="500px" />
 
 
-![Extension Popup](docs/images/popup.png)
-_Extension popup interface_
-
-![Settings Panel](docs/images/settings.png)
-_Settings configuration panel_
-
 ## ✨ Features
 
 - 🖼️ Download Pixiv illustrations with one click
