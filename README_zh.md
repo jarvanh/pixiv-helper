@@ -1,4 +1,4 @@
-# Pixvi - Pixiv 插画下载 Chrome 扩展 🎨
+# Pixvi-Helper - Pixiv 插画下载 Chrome 扩展 🎨
 
 [English](README.md) | [简体中文](README_zh.md)
 

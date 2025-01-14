@@ -1,4 +1,4 @@
-# Pixvi - A Chrome Extension for Pixiv Illustrations 🎨
+# Pixvi-Helper - A Chrome Extension for Pixiv Illustrations 🎨
 
 [English](README.md) | [简体中文](README_zh.md)
 
