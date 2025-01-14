@@ -56,7 +56,25 @@ The extension can be configured through the popup settings panel:
 
 ## 💡 Usage
 
-1. Install the extension in Chrome
+### Installation
+
+You have two ways to install this extension:
+
+1. **Chrome Web Store** (Recommended)
+
+   - Visit the [Chrome Web Store](https://chrome.google.com/webstore/detail/pixvi-helper/[extension-id])
+   - Click "Add to Chrome" to install
+
+2. **Manual Installation**
+   - Download the latest release from [GitHub Releases](https://github.com/hellokaton/pixvi-helper/releases)
+   - Unzip the downloaded file
+   - Open Chrome and go to `chrome://extensions/`
+   - Enable "Developer mode" in the top right
+   - Click "Load unpacked" and select the unzipped folder
+
+### Setup and Use
+
+1. After installation, click the extension icon in Chrome
 2. Configure your Alist server settings
 3. Browse Pixiv and use the download button to save illustrations
 4. Select your preferred quality

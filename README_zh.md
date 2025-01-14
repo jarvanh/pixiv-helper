@@ -56,7 +56,25 @@ pnpm dev
 
 ## 💡 使用方法
 
-1. 在 Chrome 中安装扩展
+### 安装扩展
+
+您可以通过以下两种方式安装本扩展：
+
+1. **Chrome 网上应用店安装**（推荐）
+
+   - 访问 [Chrome 网上应用店](https://chrome.google.com/webstore/detail/pixvi-helper/[extension-id])
+   - 点击"添加至 Chrome"即可安装
+
+2. **手动安装**
+   - 从 [GitHub Releases](https://github.com/hellokaton/pixvi-helper/releases) 下载最新版本
+   - 解压下载的文件
+   - 打开 Chrome，访问 `chrome://extensions/`
+   - 开启右上角的"开发者模式"
+   - 点击"加载已解压的扩展程序"，选择解压后的文件夹
+
+### 设置与使用
+
+1. 安装完成后，点击 Chrome 工具栏中的扩展图标
 2. 配置您的 Alist 服务器设置
 3. 浏览 Pixiv 并使用下载按钮保存插画
 4. 选择您偏好的画质
