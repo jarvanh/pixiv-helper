@@ -67,9 +67,9 @@ The extension can be configured through the popup settings panel:
 
 You have two ways to install this extension:
 
-1. **Chrome Web Store** (Recommended)
+1. **Chrome Web Store**
 
-   - Visit the [Chrome Web Store](https://chrome.google.com/webstore/detail/pixvi-helper/[extension-id])
+   - Visit the Chrome Web Store（Under Review）
    - Click "Add to Chrome" to install
 
 2. **Manual Installation**

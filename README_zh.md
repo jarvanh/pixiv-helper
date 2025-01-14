@@ -66,9 +66,9 @@ pnpm dev
 
 您可以通过以下两种方式安装本扩展：
 
-1. **Chrome 网上应用店安装**（推荐）
+1. **Chrome 网上应用店安装**
 
-   - 访问 [Chrome 网上应用店](https://chrome.google.com/webstore/detail/pixvi-helper/[extension-id])
+   - 访问 Chrome 网上应用店(审核中)
    - 点击"添加至 Chrome"即可安装
 
 2. **手动安装**
