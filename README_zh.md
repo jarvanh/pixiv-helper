@@ -68,7 +68,7 @@ pnpm dev
 
 1. **Chrome 网上应用店安装**
 
-   - 访问 Chrome 网上应用店(审核中)
+   - 访问 [Chrome 商店](https://chromewebstore.google.com/detail/p%E7%AB%99%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B/pjiimhkkiiblilghcmmejhhjnfhiffme)
    - 点击"添加至 Chrome"即可安装
 
 2. **手动安装**

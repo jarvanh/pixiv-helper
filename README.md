@@ -69,7 +69,7 @@ You have two ways to install this extension:
 
 1. **Chrome Web Store**
 
-   - Visit the Chrome Web Store（Under Review）
+   - Visit the [Chrome Web Store](https://chromewebstore.google.com/detail/p%E7%AB%99%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B/pjiimhkkiiblilghcmmejhhjnfhiffme)
    - Click "Add to Chrome" to install
 
 2. **Manual Installation**
